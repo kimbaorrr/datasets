@@ -17,3 +17,9 @@ The datasets are intended to support data analysis, machine learning, etc.
 - Description: Official fuel price data
 - Crawling date: 20/03/2026 15:00
 - Price last updated: 19/03/2026 23:00
+
+### vietnam_land_prices_2026_hanoi.json
+- Dataset collected via web crawling
+- Source: https://thuvienphapluat.vn/page/BangGiaDat.aspx
+- Description: Official land price data for Ha Noi Capital only (2026)
+- Crawling date: 21/03/2026 16:00
